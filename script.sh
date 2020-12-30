@@ -1,5 +1,5 @@
 #!/bin/bash
-
+## https://www.fiverr.com/papashok
 ARG="$1"
 
 # print usage if no agument passed
