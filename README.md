@@ -7,5 +7,4 @@ E.g. if we enter as input 2018 on the screen will be printed the Roman numeral M
 
 Respectively if we give MCMXCVIII it will be printed on the screen 1998.
 
-## Donations bitcoin
 
